@@ -10,3 +10,6 @@
 [submodule "externals/mossfw/mossfw"]
 	path = externals/mossfw/mossfw
 	url = https://github.com/SPRESENSE/mossfw.git
+[submodule "externals/neopixel-for-spresense"]
+	path = externals/neopixel-for-spresense
+	url = git@github.com:whyes-develop/neopixel-for-spresense.git
